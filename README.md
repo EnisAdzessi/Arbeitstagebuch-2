@@ -30,5 +30,8 @@
     
       
  ## <p> <h2> <a id="14.12.2021"> 14.12.2021 </a> </h2>
-      In der heutigen Stunde haben wir 
+    In der heutigen Stunde sprachen wir über verschiedene Projektmöglichkeiten, die uns jetzt zur Verfügung stehen. Da im zweiten           
+    Halbjahr eine Steigerung zu sehen sein sollte, wollten wir unsere Idee des ersten Halbjahres mit Unity zu programmieren  
+    fortzusetzten. Da wir beide zuvor noch nie zuvor mit Unity gearbeitet haben, stand die Frage in, ob wir mit Blueprints arbeiten 
+    möchten. Der Nachteil daran wäre, dass wir für diese Geld ausgeben müsssten. Außerdem fiel uns im Laufe der Stunde auf, dass Unity auf den Schulcomputern 
       
