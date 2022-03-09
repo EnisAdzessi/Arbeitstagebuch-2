@@ -33,5 +33,10 @@
     In der heutigen Stunde sprachen wir über verschiedene Projektmöglichkeiten, die uns jetzt zur Verfügung stehen. Da im zweiten           
     Halbjahr eine Steigerung zu sehen sein sollte, wollten wir unsere Idee des ersten Halbjahres mit Unity zu programmieren  
     fortzusetzten. Da wir beide zuvor noch nie zuvor mit Unity gearbeitet haben, stand die Frage in, ob wir mit Blueprints arbeiten 
-    möchten. Der Nachteil daran wäre, dass wir für diese Geld ausgeben müsssten. Außerdem fiel uns im Laufe der Stunde auf, dass Unity auf den Schulcomputern 
+    möchten. Der Nachteil daran wäre, dass wir für diese Geld ausgeben müsssten. Außerdem fiel uns im Laufe der Stunde auf, dass Unity                      
+    auf den Schulcomputern nicht installieren können, was die Arbeit am Projekt in der Schule nicht möglich machen würde. 
+      
+## <p> <h2> <a id="15.12.2021"> 15.12.2021 </a>< </h2>
+    Heute haben wir nach Alternativen zu Unity umgeschaut. Als erstes fiel uns Unreal Engine auf, mit der viele Spiele programmiert    
+    wurden, die wir unserer Freizeit spielen oder gespielt haben. Hier tritt, allerdings wieder das Problem auf, dass die Unreal Engine 
       
