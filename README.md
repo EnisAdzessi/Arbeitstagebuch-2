@@ -38,5 +38,6 @@
       
 ## <p> <h2> <a id="15.12.2021"> 15.12.2021 </a>< </h2>
     Heute haben wir nach Alternativen zu Unity umgeschaut. Als erstes fiel uns Unreal Engine auf, mit der viele Spiele programmiert    
-    wurden, die wir unserer Freizeit spielen oder gespielt haben. Hier tritt, allerdings wieder das Problem auf, dass die Unreal Engine 
+    wurden, die wir unserer Freizeit spielen oder gespielt haben. Hier tritt, allerdings wieder das Problem auf, dass die Unreal Engine, 
+    wie Unity auch, sich auf den Schulcomputern nicht runterladen ließ.                                                                              
       
