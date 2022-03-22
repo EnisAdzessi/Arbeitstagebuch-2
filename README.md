@@ -38,6 +38,25 @@
       
 ## <p> <h2> <a id="15.12.2021"> 15.12.2021 </a>< </h2>
     Heute haben wir nach Alternativen zu Unity umgeschaut. Als erstes fiel uns Unreal Engine auf, mit der viele Spiele programmiert    
-    wurden, die wir unserer Freizeit spielen oder gespielt haben. Hier tritt, allerdings wieder das Problem auf, dass die Unreal Engine, 
-    wie Unity auch, sich auf den Schulcomputern nicht runterladen ließ.                                                                              
+    wurden, die wir unserer Freizeit spielen oder gespielt haben. Hier tritt, allerdings wieder das Problem auf, dass sich die Unreal Engine, 
+    wie Unity auch, nicht auf den Schulcomputern runterladen ließ.        
+ 
+ ## <p> <h2> <a id="21.12.2021"> 21.12.2021 </a>< </h2>
+    
+  Heute spielten wir mit der gesamten Klassse Secret Hitler. Wir arbeiteten nicht an unseren Projekten weiter
       
+ ## <p> <h2> <a id="21.12.2021"> 21.12.2021 </a>< </h2>
+      
+  In der heutigen Stunde haben wir uns mit verschiedenen Programmen auseinander gesetzt. Jedoch ist uns bewusst geworden, dass          das Scratch für uns weiterhin das Programm ist, welches sich am besten für unser Projekt eignet. Zudem lässt sich Scratch am besten umsetztbar in der Schule, da Scratch sehr gut auf den Schulrechnern läuft.
+      
+ ## <p> <h2> <a id="11.01.2021"> 11.01.2021 <7a>< </h2>
+      
+  Heute haben wir angefangen unser Spiel zu programmieren. Wir haben uns für ein Jump n´ Run im Stil von Super Meat Boy entschieden. Unser Spiel soll also relativ schnell mit anspruchsvollen Sprüngen und relativ schnellen passagen. Damit wir das erreichen haben wir angefangen die Physiks für unser Spiel zu programmieren. Erstmal haben wir grundlegende Dinge wie Gravitation, normales rechts-links laufen und erste Sprünge zu programmieren. 
+      
+ ## <p> <h2> <a id="12.01.2021"> 12.01.2021 <7a>< </h2>
+      
+   Wir stießen auf das Problem, dass der Spieler ein wenig in die Spieloberfläche einsinkt, bevor er sich über der Oberfläche steht. Dies liegt daran, dass die Farberkennung in Scratch nicht perfekt funktioniert. Der Befehl wird nicht direkt dann ausgeführt wenn ein Sprite die Farbe nur leicht berührt. Es lässt sich während des Spielens dann erkennen, wie der Spieler eine Y-Koordinate hoch wandert. Diese Animation ist grundlegend gar nicht so schlimm, allerdings ist sie langsam. 
+      
+   ## <p> <h2> <a id="18.01.2021"> 18.01.2021 <7a>< </h2>
+      
+ 
