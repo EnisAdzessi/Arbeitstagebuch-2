@@ -110,6 +110,8 @@ Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschi
 </details>
 	    
 ## <p> <h2> <a id="18.1.2022"> 18.1.2022 </a> </h2>
+	    
+    
 
 ## <p> <h2> <a id="19.1.2022"> 19.1.2022 </a> </h2>
 
