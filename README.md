@@ -105,7 +105,7 @@ Des weiteren wurde diese Stunde genutzt, um unsere Spielidee weiter auszuführen
 Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschiedenen Quellen in das Thema Jump´n Run mit Scratch programmieren zu schaffen. Als Quellen nutzen wir besonders die große Community von Scratch so gab es in sehr hilfreiche Tipps in Online-Foren. Zudem haben wir uns auch die Codes von bereits vorhandenen Spielen angeschaut, um so mit verschiedensten Praktiken bekannt zu machen
      <details>
 	     <summary>Forum</summary>
-	     <a href="https://code.visualstudio.com/"> Link zu einem Forum </a>
+	     <a href="https://scratch.mit.edu/discuss/13/"> Link zu einem Forum </a>
 
 </details>
 	    
