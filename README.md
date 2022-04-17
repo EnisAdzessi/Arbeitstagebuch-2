@@ -102,8 +102,13 @@ Des weiteren wurde diese Stunde genutzt, um unsere Spielidee weiter auszuführen
       
 ## <p> <h2> <a id="12.1.2022"> 12.1.2022 </a> </h2>
 
+Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschiedenen Quellen in das Thema Jump´n Run mit Scratch programmieren zu schaffen. Als Quellen nutzen wir besonders die große Community von Scratch so gab es in sehr hilfreiche Tipps in Online-Foren. Zudem haben wir uns auch die Codes von bereits vorhandenen Spielen angeschaut, um so mit verschiedensten Praktiken bekannt zu machen
+     <details>
+	     <summary>Forum</summary>
+	     <a href="https://code.visualstudio.com/"> Link zu einem Forum </a>
 
-
+</details>
+	    
 ## <p> <h2> <a id="18.1.2022"> 18.1.2022 </a> </h2>
 
 ## <p> <h2> <a id="19.1.2022"> 19.1.2022 </a> </h2>
