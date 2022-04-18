@@ -111,17 +111,40 @@ Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschi
 	    
 ## <p> <h2> <a id="18.1.2022"> 18.1.2022 </a> </h2>
 	    
-    
+ In dieser Stunde hatte die Gruppe die Idee das Spiel doch auf Snap! zu programmieren, da diese Platform einige Funktionen besitzt die bei Scratch fehlen. Z.b. die sogenannte Warp-Funktion, die dafür sorgt, dass ein bestimmter Befehl immer überprüft wird ohne, dass andere Befehle zuerst geprüft werden. Also wurde diese Stunde genutzt, um den kurzen bisherigen Code zu übertragen und die neuen Funktionen zu testen. Der bisherige Code bestand grundlegend nur aus den simplen Mechaniken für die Spieler bewegung und einer Gravitation. Aber dieser doch sehr geringe Code in kombination mit der Warp-Funktion war bereits zu leistungs-intensiv für die Schulcomputer. Wir nutzen den rest der Stunde also um uns über leistungsoptimierende Funktionen zu informieren und diese zu testen.   
 
 ## <p> <h2> <a id="19.1.2022"> 19.1.2022 </a> </h2>
 
+In der Letzten Stunde haben wir die Platform gewechselt, jedoch wurde uns bewusst, dass wir die Schulcomputer bereits mit sehr wenig Code überfordern. Also entschlossen wir uns dazu wieder zu Scratch zu wechseln, da Scratch als Platform grundlegend besser optimiert ist und es mehr Funktionen gitb, die für einen deutlich bessere Leistung sorgen. Also nutzen wir diese Stunde dazu den Code wieder zu übertragen und wir begonnen damit ein erstes Hinderniss zu integrieren.
+
 ## <p> <h2> <a id="25.1.2022"> 25.1.2022 </a> </h2>
+	    
+*Entfall*
+	    
 
 ## <p> <h2> <a id="26.1.2022"> 26.1.2022 </a> </h2>
+	    
+*Entfall*
 
 ## <p> <h2> <a id="1.2.2022"> 1.2.2022 </a> </h2>
 
+Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseoptimiert wie möglich zu machen. Denn unser Ziel für unser Spiel ist, dass es möglichst flüssig läuft und dass es auf möglichst vielen Computern läuft. Also haben wir in Foren uns über weitere Leistungsoptimierung zu informieren. Wir begonnen viele eigene Blöcke zu erschaffen, die das Spiel deutlich flüssiger machen. So haben wir in dieser Stunde die Überprüfung, ob der Spieler sich in der Luft oder auf dem Boden befindet als einen Block definiert. Zudem haben wir einen bewegenden Block hinzugefügt, für den wir auch wieder einen Block erschaffen haben, der die Animation der bewegung kontrolliert. Jedoch entstand das Problem, dass unser Spieler sich bei Berührung mit dem Block nach oben teleportierte. Wir versuchten die restliche zeit der Stunde deises Problem zu beheben doch leider gelang uns dies nicht.
+    
+<details>
+	<summary>Überprüfung der Boden-Berührung</summary>
+	![Screenshot github](https://user-images.githubusercontent.com/88385822/163799396-4abbd171-fcc4-462b-91ff-1d6dcee46681.PNG)
+
+</details>
+<br> 
+      <details>
+	<summary>Bewegender-Block Animation</summary>
+ ![image](https://user-images.githubusercontent.com/88385822/163800261-09124c6b-5488-40e2-965f-f159a54ae89c.png)
+	
+</details>
+	    
+
 ## <p> <h2> <a id="2.2.2022"> 2.2.2022 </a> </h2>
+	    
 
 ## <p> <h2> <a id="8.2.2022"> 8.2.2022 </a> </h2>
 
@@ -141,6 +164,8 @@ Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschi
 
 ## <p> <h2> <a id="8.3.2022"> 8.3.2022 </a> </h2>
 
+*Entfall*
+
 ## <p> <h2> <a id="9.3.2022"> 9.3.2022 </a> </h2>
 
 ## <p> <h2> <a id="15.3.2022"> 15.3.2022 </a> </h2>
@@ -152,9 +177,13 @@ Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschi
 ## <p> <h2> <a id="23.3.2022"> 23.3.2022 </a> </h2>
 
 ## <p> <h2> <a id="29.3.2022"> 29.3.2022 </a> </h2>
+In dieser Stunde waren wir beide nicht anwesend. 
 
 ## <p> <h2> <a id="30.3.2022"> 30.3.2022 </a> </h2>
-      
+
+*Entfall*
+
+
       
       
  
