@@ -94,10 +94,11 @@ In der heutigen Stunde haben wir über verschiedene Projektmöglichkeiten gespro
   In dieser Doppelstunde haben wir uns zusammengesetzt und unsere Ideen, die wir in den Ferien entwickelt haben, ausgetauscht. Und wir kamen zu dem Entschluss, dass wir ein Jump'n Run als Spiel programmieren wollen. Wir haben Scratch als Programm für unser Spiel gewählt, weil Scratch für Jump'n Runs besser geeignet ist als andere Blocksprachen wie Snap! Vor allem, weil Scratch die Funktion "run without screen refresh" hat, die für ein sehr flüssiges Spielerlebnis sorgt. Mit dieser Funktion kann ein Befehl ständig überprüft werden, ohne dass jeder andere Befehl zuerst überprüft wird. Dadurch läuft das Spiel sehr schnell und schont die Ressourcen des Computers.
 Außerdem diente diese Stunde dazu, unsere Spielidee weiterzuentwickeln und ein genaueres Bild von unserem Endprodukt zu erstellen.
 
-      <br> 
-      <details>
+<br> 
+<details>
 	<summary>Run without screen refresh Funktion</summary>
- ![run without screen refresh](https://user-images.githubusercontent.com/88385824/163691571-4d85f686-a2a3-49db-bdf0-0ad96c3da182.PNG)
+
+![run without screen refresh](https://user-images.githubusercontent.com/88385824/163691571-4d85f686-a2a3-49db-bdf0-0ad96c3da182.PNG)
 	
 </details>
       
@@ -106,7 +107,7 @@ Außerdem diente diese Stunde dazu, unsere Spielidee weiterzuentwickeln und ein 
 
 Wir haben diese Stunde genutzt, um uns zunächst mit Hilfe verschiedener Quellen einen Einblick in die Thematik der Programmierung von Jump'n Run mit Scratch zu verschaffen. Vor allem die große Scratch-Community diente uns als Quelle, und in Online-Foren gab es sehr hilfreiche Tipps. Außerdem haben wir uns die Codes von bereits existierenden Spielen angesehen, um uns mit verschiedenen Praktiken vertraut zu machen.
 
-     <details>
+<details>
 	     <summary>Forum</summary>
 	     <a href="https://scratch.mit.edu/discuss/13/"> Link zu einem Forum </a>
 
