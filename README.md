@@ -5,7 +5,7 @@ Stormarnschule 2021
      
 Informatik, Bl
 
-Julian Hayer, Enis Adzessi
+*Julian Hayer, Enis Adzessi*
 	
 
 </p>
