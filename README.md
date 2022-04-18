@@ -35,27 +35,27 @@ Julian Hayer, Enis Adzessi
      
   </tr>
     <tr>
-      <td><a href"#8.2.2022"> 8.2.2022 </a></td>
-      <td><a href"#9.2.2022"> 9.2.2022 </a></td>
+      <td><a href="#8.2.2022"> 8.2.2022 </a></td>
+      <td><a href="#9.2.2022"> 9.2.2022 </a></td>
       <td><a href="#15.2.2022"> 15.2.2022 </a></td>
       <td><a href="#16.2.2022"> 16.2.2022 </a></td>
   </tr>
     <tr>
-      <td><a href"#22.2.2022"> 22.2.2022 </a></td>
-      <td><a href"#23.2.2022"> 23.2.2022 </a></td>
+      <td><a href="#22.2.2022"> 22.2.2022 </a></td>
+      <td><a href="#23.2.2022"> 23.2.2022 </a></td>
       <td><a href="#1.3.2022"> 1.3.2022 </a></td>
       <td><a href="#2.3.2022"> 2.3.2022 </a></td>
    
    </tr>
     <tr>
-      <td><a href"#8.3.2022"> 8.3.2022 </a></td>
-      <td><a href"#9.3.2022"> 9.3.2022 </a></td>
+      <td><a href="#8.3.2022"> 8.3.2022 </a></td>
+      <td><a href="#9.3.2022"> 9.3.2022 </a></td>
       <td><a href="#15.3.2022"> 15.3.2022 </a></td>
       <td><a href="#16.3.2022"> 16.3.2022 </a></td>
    </tr>
     <tr>
-      <td><a href"#22.3.2022"> 22.3.2022 </a></td>
-      <td><a href"#23.3.2022"> 23.3.2022 </a></td>
+      <td><a href="#22.3.2022"> 22.3.2022 </a></td>
+      <td><a href="#23.3.2022"> 23.3.2022 </a></td>
       <td><a href="#29.3.2022"> 29.3.2022 </a></td>
       <td><a href="#30.3.2022"> 30.3.2022 </a></td>
   
@@ -68,11 +68,12 @@ Julian Hayer, Enis Adzessi
       
  ## <p> <h2> <a id="14.12.2021"> 14.12.2021 </a> </h2>
       
- In der heutigen Stunde sprachen wir über verschiedene Projektmöglichkeiten, die uns jetzt zur Verfügung stehen. Da im zweiten           
-    Halbjahr eine Steigerung zu sehen sein sollte, wollten wir unsere Idee des ersten Halbjahres mit Unity zu programmieren  
-    fortzusetzten. Da wir beide zuvor noch nie zuvor mit Unity gearbeitet haben, stand die Frage in, ob wir mit Blueprints arbeiten 
-    möchten. Der Nachteil daran wäre, dass wir für diese Geld ausgeben müsssten. Außerdem fiel uns im Laufe der Stunde auf, dass Unity                      
-    auf den Schulcomputern nicht installieren können, was die Arbeit am Projekt in der Schule nicht möglich machen würde. 
+In der heutigen Stunden	wir über verschiedene Projektmöglichkeiten gesprochen, die uns jetzt zur Verfügung stehen. Da das zweite Halbjahr           
+    wollten wir die Idee, die wir in der ersten Jahreshälfte hatten, nämlich mit Unity zu programmieren, weiterführen.  
+    fortsetzen. Da keiner von uns zuvor mit Unity gearbeitet hatte, war die Frage, ob wir mit Blueprints arbeiten wollten. 
+    Blueprints. Das hätte den Nachteil, dass wir dafür Geld ausgeben müssten. Außerdem stellten wir während des Unterrichts fest, dass Unity nicht                      
+    nicht auf den Schulcomputern installiert werden konnte, was es unmöglich machen würde, in der Schule an dem Projekt zu arbeiten.
+ 
       
 ## <p> <h2> <a id="15.12.2021"> 15.12.2021 </a> </h2>
       
@@ -297,7 +298,7 @@ Nun haben wir uns langsam dem Endprozess unseres Spiels gewidmet dafür haben wi
 	    
 ## <p> <h2> <a id="15.3.2022"> 15.3.2022 </a> </h2>
 	    
-Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben wir die zweite Hälfte des letzten Levels zu gestalten. Wir haben uns dafür entschieden in diese Hälfte zwei Laserstrahlen einzubauen, die als Hindernis fungieren. Diese Erscheinen in regelmäßigen Abständen und fügen dem Spieler genau wie die Gegner Schaden zu. Außerdem haben wir noch eine Grube mit Lava hinzugefügt, die auch als weiteres Hindernis dient. Diese richtet aber nicht nur schaden an, sondern sorgt sie dafür, dass der Spieler bei Berührung alle seine Herzen verliert. Nun begann eine komplizierte Phase des Projektes, da wir den Übergang zwischen den zwei Ebenen im letzten Level so flüssig wie möglich machen wollten. Dieser Übergang verläuft aber nun nichtmehr horizontal sondern vertikal. Diesem Problem stellten wir uns am ende der Stunde kamen jedoch nicht allzu weit und so verschoben wir die arbeit auf die nächste Stunde.
+Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben wir die zweite Hälfte des letzten Levels zu gestalten. Wir haben uns dafür entschieden in diese Hälfte zwei Laserstrahlen einzubauen, die als Hindernis fungieren. Diese Erscheinen in regelmäßigen Abständen und fügen dem Spieler genau wie die Gegner Schaden zu. Außerdem haben wir noch eine Grube mit Lava hinzugefügt, die auch als weiteres Hindernis dient. Diese richtet aber nicht nur schaden an, sondern sorgt sie dafür, dass der Spieler bei Berührung alle seine Herzen verliert. Nun begann eine komplizierte Phase des Projektes, da wir den Übergang zwischen den zwei Ebenen im letzten Level so flüssig wie möglich machen wollten. Dieser Übergang verläuft aber nun nichtmehr horizontal sondern vertikal. Diesem Problem stellten wir uns am ende der Stunde kamen jedoch nicht allzu weit und so verschoben wir die arbeit auf die nächste Stunde. 
 
 <details>
 	<summary>Finales Level 2/2</summary>
@@ -320,11 +321,33 @@ Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben w
 	
 </details>
 	    
-## <p> <h2> <a id="16.3.2022"> 16.3.2022 </a> </h2>
+## <p> <h2> <a id="16.3.2022"> 16.3.2022 </a> </h2>	    
+	    
+Nun haben wir den Übergang zwischen den beiden Ebenen erstellt. Dafür haben wir wieder die oberste Y-Koordinate ermittelt. Dann haben wir wieder den unsere altes System angewandt nur auf der Y-Achse. Jedoch war es ziemlich schwierig die Bewegung aus dem vorherigen Level zu übernehmen, sodass es Flüssig aussieht. 
+	    
 
+<details>
+	<summary>Übergang Level</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163866087-2e10a9f9-65b7-4981-b182-b47d52d47601.png)
+	
+</details>
+	    
 ## <p> <h2> <a id="22.3.2022"> 22.3.2022 </a> </h2>
 
+Die Doppelstunde wurde dazu genutzt unser Spiel fast fertig zu stellen. Dafür haben wir der Lava noch eine Bewegungsanimation hinzugefügt. So wirkt das Spiel weniger statisch. Die restliche Stunde haben wir an Github gearbeitet und noch kleine Fehler behoben. Außerdem haben wir den Schlüssel dazu programmiert, der zum öffnen der Tür dient. Dafür haben wir einen Block erschaffen der überprüft, ob der Spieler einmal den Schlüssel berührt hat. Sobald dies passiert ist wird eine Variable erhöht und die Tür lässt sich öffnen und das Spiel lässt sich beenden. 
+
+
+<details>
+	<summary>Schlüssel Code</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163872144-a78479a8-237e-40c6-99eb-e5df560a2529.png)
+	
+</details>    
+
 ## <p> <h2> <a id="23.3.2022"> 23.3.2022 </a> </h2>
+
+Diese Stunde haben wir dafür genutzt Kommentare in unseren Code hinzuzufügen. Dies macht den gesamten Code deutlich verständlicher und übersichtlicher. Außerdem spart dies uns Arbeit, da wir nun einfach nur einen Screenshot einfügen müssen und dieser sich selbst erklärt.
 
 ## <p> <h2> <a id="29.3.2022"> 29.3.2022 </a> </h2>
 In dieser Stunde waren wir beide nicht anwesend. 
@@ -334,6 +357,23 @@ In dieser Stunde waren wir beide nicht anwesend.
 *Entfall*
 
 
+## <p> <h2> <a id="Arbeitsprogress in den Ferien"> Arbeitsprogress in den Ferien </a> </h2>      
       
-      
- 
+In den Ferien wurden noch einige kleine Verbesserungen vorgenommen. Z.b. haben wir einen Erklärtext in Level 3 und 4 hinzugefügt. Dies hilft für die Dynamik des Spiels. Außerdem haben wir die Dynamik unseres Spiels noch weiter erhöt, da wir die Bewegungen des Spielers selbst erschaffene Blöcke simpler und so unkomplizierte zum ausführen gemacht haben. Allgemein kann man festhalten, dass es uns gelungen ist, dass unser Spiel auf unseren PC´s sehr gut und flüssig läuft. wie dies jedoch auf den Schulrechnern aussieht wissen wir leider nicht. Eine weitere Neuerung war das hinzufügen eines Endscreens und einem Spielneustart-Knopfes. 
+Die restliche zeit der Ferien haben wir für Github verwendet und haben unser Projekt fertiggestellt.
+
+
+<details>
+	<summary>Erklärtext Level 3</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163874888-44eb09bb-bd60-4fd6-af08-6dfc2b32150e.png)
+	
+</details> 
+
+
+<details>
+	<summary>Erklärtext Level 4</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163876034-1cabac73-70c3-4e15-9773-730d6ebb5f61.png)
+	
+</details>  
