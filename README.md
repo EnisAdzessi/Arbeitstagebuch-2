@@ -128,7 +128,7 @@ In der Letzten Stunde haben wir die Platform gewechselt, jedoch wurde uns bewuss
 
 ## <p> <h2> <a id="1.2.2022"> 1.2.2022 </a> </h2>
 
-Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseoptimiert wie möglich zu machen. Denn unser Ziel für unser Spiel ist, dass es möglichst flüssig läuft und dass es auf möglichst vielen Computern läuft. Also haben wir in Foren uns über weitere Leistungsoptimierung zu informieren. Wir begonnen viele eigene Blöcke zu erschaffen, die das Spiel deutlich flüssiger machen. So haben wir in dieser Stunde die Überprüfung, ob der Spieler sich in der Luft oder auf dem Boden befindet als einen Block definiert. Zudem haben wir einen bewegenden Block hinzugefügt, für den wir auch wieder einen Block erschaffen haben, der die Animation der bewegung kontrolliert. Jedoch entstand das Problem, dass unser Spieler sich bei Berührung mit dem Block nach oben teleportierte. Wir versuchten die restliche zeit der Stunde deises Problem zu beheben doch leider gelang uns dies nicht.
+Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseoptimiert wie möglich zu machen. Denn unser Ziel für unser Spiel ist, dass es möglichst flüssig läuft und dass es auf möglichst vielen Computern läuft. Also haben wir in Foren uns über weitere Leistungsoptimierung zu informieren. Wir begonnen viele eigene Blöcke zu erschaffen, die das Spiel deutlich flüssiger machen. So haben wir in dieser Stunde die Überprüfung, ob der Spieler sich in der Luft oder auf dem Boden befindet als einen Block definiert. Zudem haben wir einen bewegenden Block hinzugefügt, für den wir auch wieder einen Block erschaffen haben, der die Animation der bewegung kontrolliert. Jedoch entstand das Problem, dass unser Spieler sich bei Berührung mit dem Block nach oben teleportierte. Wir versuchten die restliche zeit der Stunde deises Problem zu beheben doch leider gelang uns dies nicht. Diesen Block haben wir aber erstmal aus Level 1 wieder entfernt.
     
 <details>
 	  <summary>Überprüfung der Boden-Berührung</summary>
@@ -163,7 +163,7 @@ Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel ein
     
 ## <p> <h2> <a id="9.2.2022"> 9.2.2022 </a> </h2>
 	    
-In dieser Stunde haben wir unser erstes Vollständiges Level erschaffen. Dafür haben wir einen Hintergrund bei Piskel erstellt. Dazu haben wir noch ein Gegner erstellt. Die bewegung für diesen Gegner haben wir aber noch nicht hinzugefügt. Dieses Level war also zu diesem zeitpunkt noch fast komplett ohne Funktionen.
+In dieser Stunde haben wir unser erstes Vollständiges Level erschaffen. Dafür haben wir einen Hintergrund bei Piskel erstellt. Dazu haben wir noch ein Gegner erstellt. Die Bewegung für diesen Gegner haben wir aber noch nicht hinzugefügt. Dieses Level war also zu diesem zeitpunkt noch fast komplett ohne Funktionen.
 
 <details>
 	<summary>level 1</summary>
@@ -200,22 +200,126 @@ Wir nutzen diese Stunde dazu den Übergang von Level 1 zu Level 2 zu programiere
 ![image](https://user-images.githubusercontent.com/88385822/163818037-dcdd08f9-8811-4beb-ab6a-f0237b5055e5.png)
 	
 </details>
+	    
 ## <p> <h2> <a id="22.2.2022"> 22.2.2022 </a> </h2>
+	    
+Diese Doppelstunde haben wir dafür verwendet Level 2 zu erstellen. Level 2 hat grundlegend 2 neue features. Einerseits einen bewegenden Block, den wir bereits am Anfang des Projektes programmiert hatten. Andererseits einen Sprungboost. Der bei Berührung dafür sorgt, dass unser spieler sehr hoch springt. Außerdem haben wir wieder Stacheln hinzugefügt. Der Sprungboost funktoniert sehr simpel, da bei Berührung der Spieler einfach in Y-Richtung beschleunigt wird. Außerdem haben wir ein Loch in diesem level hinzugefügt, über welches der Spieler springen muss ansonsten verliert er direkt.
+	    
+<details>
+	<summary>Stachel code</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163821265-95cacd39-f3de-42ea-b4ce-8bcc690afc0a.png)
+![image](https://user-images.githubusercontent.com/88385822/163824612-8e8cb745-9b21-4469-a823-b9245ea05181.png)
+	
+</details>
 
+<details>
+	<summary>Sprungboost</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163821401-b0f20ba8-3442-4688-b7c8-ba2740fdcbf2.png)
+	
+</details>
+	    
 ## <p> <h2> <a id="23.2.2022"> 23.2.2022 </a> </h2>
+	    
+Diese Stunde haben wir dafür verwendet uns einen Plan für unser nächstes Level zu erstellen. Dabei sind wir auf die Idee gekommen eine kleine Abwechslung zu integrieren und eine Shooter-mechanik hinzuzufügen. Wir haben also wieder mal bei Piskel eine Waffe erstellt und uns den Aufbau des Levels überlegt.
+	    
+<details>
+	<summary>Waffe</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163832271-8cab5859-addd-4757-b112-552eaf305d5a.png)
+	
+</details>
 
 ## <p> <h2> <a id="1.3.2022"> 1.3.2022 </a> </h2>
+	    
+Nun haben wir uns an das 3 Level gesetzt. zuerst haben wir dafür wieder unsere alten Mechaniken hinzugefügt und grundlegend das Design erstellt. Dann haben wir einen "Spawner" erschaffen, also einen Block, aus dem Gegner in bestimmten Abständen erscheinen. Es entstehen jede Sekunde zwei Gegner, die sich nach links bewegen. Damit die Performance besser ist haben wir die clone-Funktion benutzt, da wir so deutlich weniger Sprites brauchen, da so einfach in bestimmten Abständen unsere Gegner geklont werden. Dazu haben wir die Projektile der Waffe programmiert. Diese fliegen immer in Richtung des Mauszeigers. 
+	    
+<details>
+	<summary>Level 3</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163837663-5ce12a19-69ec-4666-8090-6a1834122395.png)
+</details>
+	    
+<details>
+	<summary>Gegner erschaffen</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163837416-9bf2be98-b0d9-402f-95c5-157cf694964c.png)
+	
+</details>
+
+<details>
+	<summary>Projektil richtung</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163837416-9bf2be98-b0d9-402f-95c5-157cf694964c.png)
+	
+</details>
 
 ## <p> <h2> <a id="2.3.2022"> 2.3.2022 </a> </h2>
+	    
+In dieser Stunde haben wir weiter an Level 3 gearbeitet. Wir haben der Waffe eine Abklinkzeit gegeben, damit der Spieler das Level nicht zu schnell beendet. Außerdem haben wir einen Block erstellt, der das Aufheben der Waffe regelt. Dies sorgt dafür, dass das Aufheben sehr flüssig und konstant läuft. Zudem haben wir weiter an Github gearbeitet und unsere Projektseite weiter ausgeführt. Außerdem haben wir einen Lebensbalken für den Spawner programmiert. Dieser Sorgt dafür, dass die Treffer des Spawners für den Spieler ersichtlich sind und man erkennt daran wie oft man diesen noch treffen muss. Sobald die Leben des Spawners auf null gesunken sind verschwinden auch die Gegner und der Spawner. Das waren die Ergebnisse dieser Stunde.
+	    
+<details>
+	<summary>Waffe aufsammeln</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163840574-61caebf1-814b-4892-9a56-e401eb639044.png)
+	
+</details>
+	    
+<details>
+	<summary>Lebensbalken Spawner</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163844908-f2b706de-f031-4304-b9b5-2035bef4a2bd.png)
+	
+</details>
 
+<details>
+	<summary>Verschwinden des Spawners</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163845073-c4a8ff13-6a67-4c77-946f-95a5143b6d21.png)
+	
+</details>
+	    
 ## <p> <h2> <a id="8.3.2022"> 8.3.2022 </a> </h2>
 
 *Entfall*
 
 ## <p> <h2> <a id="9.3.2022"> 9.3.2022 </a> </h2>
+	    
+Nun haben wir uns langsam dem Endprozess unseres Spiels gewidmet dafür haben wir uns überlegt wie unser Finales Level aussehen soll und welche Features wir einfügen wollen. Nachdem wir dies besprochen haben, begonnen wir damit den Hintergrund und den Aufbau des Levels zu erstellen. Wir wollten das Spiel beenden, indem man eine Tür öffnet. Dafür müsste man zuerst einen Schlüssel aus einem anderen Level holen. Für die Tür haben wir ma wieder ein Design bei Piskel erstellt. Des weiteren haben wir begonnen die zweite Hälfte des finalen Levels zu programmieren.
 
+<details>
+	<summary>Finales Level 1/2</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163849580-31d30ec2-f9c6-4a6a-a3f0-3390725e6d55.png)
+	
+</details>
+	    
 ## <p> <h2> <a id="15.3.2022"> 15.3.2022 </a> </h2>
+	    
+Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben wir die zweite Hälfte des letzten Levels zu gestalten. Wir haben uns dafür entschieden in diese Hälfte zwei Laserstrahlen einzubauen, die als Hindernis fungieren. Diese Erscheinen in regelmäßigen Abständen und fügen dem Spieler genau wie die Gegner Schaden zu. Außerdem haben wir noch eine Grube mit Lava hinzugefügt, die auch als weiteres Hindernis dient. Diese richtet aber nicht nur schaden an, sondern sorgt sie dafür, dass der Spieler bei Berührung alle seine Herzen verliert. Nun begann eine komplizierte Phase des Projektes, da wir den Übergang zwischen den zwei Ebenen im letzten Level so flüssig wie möglich machen wollten. Dieser Übergang verläuft aber nun nichtmehr horizontal sondern vertikal. Diesem Problem stellten wir uns am ende der Stunde kamen jedoch nicht allzu weit und so verschoben wir die arbeit auf die nächste Stunde.
 
+<details>
+	<summary>Finales Level 2/2</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163854630-51d11b27-60bd-43fe-a6c0-943602edeb7e.png)
+	
+</details>
+	    
+<details>
+	<summary>Laserstrahlen Code</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163854703-a9bc71ab-a33a-4d9f-90f4-e3fe3a1b5630.png)
+	
+</details>
+	    
+<details>
+	<summary>Lava Code</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163863002-5a70ba7c-9b4c-4d65-865e-30aa184a02af.png)
+	
+</details>
+	    
 ## <p> <h2> <a id="16.3.2022"> 16.3.2022 </a> </h2>
 
 ## <p> <h2> <a id="22.3.2022"> 22.3.2022 </a> </h2>
