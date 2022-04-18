@@ -131,14 +131,16 @@ In der Letzten Stunde haben wir die Platform gewechselt, jedoch wurde uns bewuss
 Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseoptimiert wie möglich zu machen. Denn unser Ziel für unser Spiel ist, dass es möglichst flüssig läuft und dass es auf möglichst vielen Computern läuft. Also haben wir in Foren uns über weitere Leistungsoptimierung zu informieren. Wir begonnen viele eigene Blöcke zu erschaffen, die das Spiel deutlich flüssiger machen. So haben wir in dieser Stunde die Überprüfung, ob der Spieler sich in der Luft oder auf dem Boden befindet als einen Block definiert. Zudem haben wir einen bewegenden Block hinzugefügt, für den wir auch wieder einen Block erschaffen haben, der die Animation der bewegung kontrolliert. Jedoch entstand das Problem, dass unser Spieler sich bei Berührung mit dem Block nach oben teleportierte. Wir versuchten die restliche zeit der Stunde deises Problem zu beheben doch leider gelang uns dies nicht.
     
 <details>
-	<summary>Überprüfung der Boden-Berührung</summary>
-	
+	  <summary>Überprüfung der Boden-Berührung</summary>
+
+![Screenshot github](https://user-images.githubusercontent.com/88385822/163804066-349b1593-a229-446b-ac07-b6f9df3b0a22.PNG)
 
 </details>
 <br> 
-      <details>
+<details>
 	<summary>Bewegender-Block Animation</summary>
- ![image](https://user-images.githubusercontent.com/88385822/163800261-09124c6b-5488-40e2-965f-f159a54ae89c.png)
+	
+![image](https://user-images.githubusercontent.com/88385822/163804225-b2fa61a6-bf2d-45ac-9838-856d6b534b15.png)
 	
 </details>
 	    
@@ -149,14 +151,55 @@ Die heutige Stunde haben wir primär für Github verwendet. Indem wir angefangen
 	    
 ## <p> <h2> <a id="8.2.2022"> 8.2.2022 </a> </h2>
 
-Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel einzubauen. So haben wir als Hindernis Stacheln hinzugefügt und einen Leben-System. Das bei jedem Schaden immer ein halbes Herz verliert. 	    
+Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel einzubauen. So haben wir als Hindernis Stacheln hinzugefügt und einen Leben-System. Das bei jedem Schaden immer ein halbes Herz verliert. Das heißt, dass bei Berührung mit den Stacheln, sich eine Variable erhöht, die je nach höhe den Skin der Herzen verändert, sodass es  so die Herzen bei berührung immer geringer werden. Sobald kein Herz mehr angezeigt wird, wird das Spiel neu gestartet. Dafür haben wir auf den Spieler einen "Fade" effekt hinzugefügt, der dafür sorgt, dass das Spiel flüssiger wirkt. Da die Figur nicht einfach wieder an den Anfang teleportiert wird sondern sich erst langsam auflöst.
+	    
+<details>
+	<summary>Verlust von Herzen</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163804677-961db120-fac7-47be-9f7c-6ed5c5920754.png)
+	
+</details>
+	    
     
 ## <p> <h2> <a id="9.2.2022"> 9.2.2022 </a> </h2>
+	    
+In dieser Stunde haben wir unser erstes Vollständiges Level erschaffen. Dafür haben wir einen Hintergrund bei Piskel erstellt. Dazu haben wir noch ein Gegner erstellt. Die bewegung für diesen Gegner haben wir aber noch nicht hinzugefügt. Dieses Level war also zu diesem zeitpunkt noch fast komplett ohne Funktionen.
+
+<details>
+	<summary>level 1</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163811305-a2edd488-b04e-450e-a1c9-130b631077dc.png)
+
+	
+</details>
+	    
+<details>
+	<summary>Piskel Link</summary>
+	https://www.piskelapp.com/
+</details>
 
 ## <p> <h2> <a id="15.2.2022"> 15.2.2022 </a> </h2>
+	    
+In dieser Doppelstunde war nur Enis anwesend. Er hat die Zeit einerseits genutzt, um an Github weiter zu arbeiten andererseits hat er die Bewegung des Gegners programmiert. Damit dieser sich flüssig hin und her bewegt hat er einen Block erschaffen, der die Bewegung des Gegners bestimmt. Außerdem hat er angefangen den Übergang der Level zu programmieren. Dies stellte sich als große Herrausforderung raus, da der Wechsel von Level zu Level zuerst nur sehr langsam lief. Also wurde sich nach der Stunde Zuhause informiert und wir haben uns eine grobe Lösung überlegt, die wir in den nächsten Stunden umsetzten wollen.
+
+<details>
+	<summary>Bewegung Gegner 1</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163816488-e5a49ba0-782d-4224-8809-d55a7359ed38.png)
+	
+</details>	    
+	    
 
 ## <p> <h2> <a id="16.2.2022"> 16.2.2022 </a> </h2>
 
+Wir nutzen diese Stunde dazu den Übergang von Level 1 zu Level 2 zu programieren. Dafür haben wir erstmal den Groben aufbau von Level 2 erstellt und als Testversion eingefügt. Nun haben wir die maximale Position bestimmt, auf der unser Spieler auf der X-Achse sein kann. Nun haben wir einen Befehl geschrieben, der dafür sorgt, dass sobald der Spieler einen bestimmten X-Achsen Wert überschreitet der Hintergrund und somit sich das Level ändert. Natürlich muss der Spieler immer etwas nach vorne gesetzt werden sobald das Level geändert wird, da ansonsten der Spieler direkt wieder in das vorherige Level gebracht wird. 
+
+<details>
+	<summary>Level Wechsel</summary>
+	
+![image](https://user-images.githubusercontent.com/88385822/163818037-dcdd08f9-8811-4beb-ab6a-f0237b5055e5.png)
+	
+</details>
 ## <p> <h2> <a id="22.2.2022"> 22.2.2022 </a> </h2>
 
 ## <p> <h2> <a id="23.2.2022"> 23.2.2022 </a> </h2>
