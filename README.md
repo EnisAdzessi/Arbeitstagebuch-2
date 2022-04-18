@@ -132,7 +132,7 @@ Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseopti
     
 <details>
 	<summary>Überprüfung der Boden-Berührung</summary>
-	![Screenshot github](https://user-images.githubusercontent.com/88385822/163799396-4abbd171-fcc4-462b-91ff-1d6dcee46681.PNG)
+	
 
 </details>
 <br> 
@@ -145,9 +145,12 @@ Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseopti
 
 ## <p> <h2> <a id="2.2.2022"> 2.2.2022 </a> </h2>
 	    
-
+Die heutige Stunde haben wir primär für Github verwendet. Indem wir angefangen haben unsere Texte auf Word vor zu schreiben, sodass wir sie einfach nur in das Github Repository einfügen müssen.
+	    
 ## <p> <h2> <a id="8.2.2022"> 8.2.2022 </a> </h2>
 
+Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel einzubauen. So haben wir als Hindernis Stacheln hinzugefügt und einen Leben-System. Das bei jedem Schaden immer ein halbes Herz verliert. 	    
+    
 ## <p> <h2> <a id="9.2.2022"> 9.2.2022 </a> </h2>
 
 ## <p> <h2> <a id="15.2.2022"> 15.2.2022 </a> </h2>
