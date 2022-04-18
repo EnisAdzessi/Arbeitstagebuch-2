@@ -68,11 +68,11 @@ Julian Hayer, Enis Adzessi
       
  ## <p> <h2> <a id="14.12.2021"> 14.12.2021 </a> </h2>
       
-In der heutigen Stunden	wir über verschiedene Projektmöglichkeiten gesprochen, die uns jetzt zur Verfügung stehen. Da das zweite Halbjahr           
+In der heutigen Stunde haben wir über verschiedene Projektmöglichkeiten gesprochen, die uns jetzt zur Verfügung stehen. Da das zweite Halbjahr           
     wollten wir die Idee, die wir in der ersten Jahreshälfte hatten, nämlich mit Unity zu programmieren, weiterführen.  
-    fortsetzen. Da keiner von uns zuvor mit Unity gearbeitet hatte, war die Frage, ob wir mit Blueprints arbeiten wollten. 
-    Blueprints. Das hätte den Nachteil, dass wir dafür Geld ausgeben müssten. Außerdem stellten wir während des Unterrichts fest, dass Unity nicht                      
-    nicht auf den Schulcomputern installiert werden konnte, was es unmöglich machen würde, in der Schule an dem Projekt zu arbeiten.
+    Da keiner von uns zuvor mit Unity gearbeitet hatte, war die Frage, ob wir mit Blueprints arbeiten wollten. 
+    Blueprints. Das hätte den Nachteil, dass wir dafür Geld ausgeben müssten. Außerdem stellten wir während des Unterrichts fest, dass Unity nicht          
+    auf den Schulcomputern installiert werden konnte, was es unmöglich machen würde, in der Schule an dem Projekt zu arbeiten.
  
       
 ## <p> <h2> <a id="15.12.2021"> 15.12.2021 </a> </h2>
@@ -91,8 +91,9 @@ In der heutigen Stunden	wir über verschiedene Projektmöglichkeiten gesprochen,
       
  ## <p> <h2> <a id="11.1.2022"> 11.1.2022 </a> </h2>
       
-  In dieser Doppelstunde haben wir uns zusammengesetzt und unsere Ideen, die wir über die Ferien entwickelt haben ausgetauscht. Und wir sind zu dem Entschluss gekommen, dass wir ein Jump´n Run als Spiel programmieren wollen. Als Programm für unser spiel haben wir Scratch ausgewählt, da Scratch sich besser für Jump´n Runs eignet als andere Blocksprachen wie Snap!. Besonders, da Scratch die Funktion hat "run without screen refresh" die für ein sehr flüssiges Erlebnis beim spielen sorgt. Diese Funktion ermöglicht es nämlich, dass ein Befehl konstant überprüft wird ohne, dass jeder andere befehl vorher überprüft wird. Dies sorgt also für einen sehr schnellen ablauf und es werden die Ressourcen des Computers gespart.
-Des weiteren wurde diese Stunde genutzt, um unsere Spielidee weiter auszuführen und ein genaueres Bild von unserem Endprodukt zu gestalten.
+  In dieser Doppelstunde haben wir uns zusammengesetzt und unsere Ideen, die wir in den Ferien entwickelt haben, ausgetauscht. Und wir kamen zu dem Entschluss, dass wir ein Jump'n Run als Spiel programmieren wollen. Wir haben Scratch als Programm für unser Spiel gewählt, weil Scratch für Jump'n Runs besser geeignet ist als andere Blocksprachen wie Snap! Vor allem, weil Scratch die Funktion "run without screen refresh" hat, die für ein sehr flüssiges Spielerlebnis sorgt. Mit dieser Funktion kann ein Befehl ständig überprüft werden, ohne dass jeder andere Befehl zuerst überprüft wird. Dadurch läuft das Spiel sehr schnell und schont die Ressourcen des Computers.
+Außerdem diente diese Stunde dazu, unsere Spielidee weiterzuentwickeln und ein genaueres Bild von unserem Endprodukt zu erstellen.
+
       <br> 
       <details>
 	<summary>Run without screen refresh Funktion</summary>
@@ -103,7 +104,8 @@ Des weiteren wurde diese Stunde genutzt, um unsere Spielidee weiter auszuführen
       
 ## <p> <h2> <a id="12.1.2022"> 12.1.2022 </a> </h2>
 
-Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschiedenen Quellen in das Thema Jump´n Run mit Scratch programmieren zu schaffen. Als Quellen nutzen wir besonders die große Community von Scratch so gab es in sehr hilfreiche Tipps in Online-Foren. Zudem haben wir uns auch die Codes von bereits vorhandenen Spielen angeschaut, um so mit verschiedensten Praktiken bekannt zu machen
+Wir haben diese Stunde genutzt, um uns zunächst mit Hilfe verschiedener Quellen einen Einblick in die Thematik der Programmierung von Jump'n Run mit Scratch zu verschaffen. Vor allem die große Scratch-Community diente uns als Quelle, und in Online-Foren gab es sehr hilfreiche Tipps. Außerdem haben wir uns die Codes von bereits existierenden Spielen angesehen, um uns mit verschiedenen Praktiken vertraut zu machen.
+
      <details>
 	     <summary>Forum</summary>
 	     <a href="https://scratch.mit.edu/discuss/13/"> Link zu einem Forum </a>
@@ -112,11 +114,11 @@ Diese Stunde nutzten wir dafür, uns erstmal einen Einblick mithilfe von verschi
 	    
 ## <p> <h2> <a id="18.1.2022"> 18.1.2022 </a> </h2>
 	    
- In dieser Stunde hatte die Gruppe die Idee das Spiel doch auf Snap! zu programmieren, da diese Platform einige Funktionen besitzt die bei Scratch fehlen. Z.b. die sogenannte Warp-Funktion, die dafür sorgt, dass ein bestimmter Befehl immer überprüft wird ohne, dass andere Befehle zuerst geprüft werden. Also wurde diese Stunde genutzt, um den kurzen bisherigen Code zu übertragen und die neuen Funktionen zu testen. Der bisherige Code bestand grundlegend nur aus den simplen Mechaniken für die Spieler bewegung und einer Gravitation. Aber dieser doch sehr geringe Code in kombination mit der Warp-Funktion war bereits zu leistungs-intensiv für die Schulcomputer. Wir nutzen den rest der Stunde also um uns über leistungsoptimierende Funktionen zu informieren und diese zu testen.   
+ In dieser Stunde hatte die Gruppe die Idee, das Spiel auf Snap! zu programmieren, weil diese Plattform einige Funktionen bietet, die in Scratch fehlen. Zum Beispiel die sogenannte Warp-Funktion, die dafür sorgt, dass ein bestimmter Befehl immer geprüft wird, ohne dass andere Befehle zuerst geprüft werden. So wurde diese Stunde genutzt, um den kurzen vorherigen Code zu übertragen und die neuen Funktionen zu testen. Der bisherige Code bestand im Grunde nur aus der einfachen Mechanik für die Spielerbewegung und einer Schwerkraft. Aber dieser sehr kleine Code in Kombination mit der Warp-Funktion war bereits zu leistungsintensiv für die Schulcomputer. Also nutzten wir den Rest der Stunde, um uns über leistungsoptimierende Funktionen zu informieren und diese zu testen.   
 
 ## <p> <h2> <a id="19.1.2022"> 19.1.2022 </a> </h2>
 
-In der Letzten Stunde haben wir die Platform gewechselt, jedoch wurde uns bewusst, dass wir die Schulcomputer bereits mit sehr wenig Code überfordern. Also entschlossen wir uns dazu wieder zu Scratch zu wechseln, da Scratch als Platform grundlegend besser optimiert ist und es mehr Funktionen gitb, die für einen deutlich bessere Leistung sorgen. Also nutzen wir diese Stunde dazu den Code wieder zu übertragen und wir begonnen damit ein erstes Hinderniss zu integrieren.
+In der letzten Stunde haben wir die Plattform gewechselt, aber wir haben gemerkt, dass wir die Schulcomputer schon mit sehr wenig Code überladen haben. Also beschlossen wir, wieder zu Scratch zu wechseln, da Scratch als Plattform grundsätzlich besser optimiert ist und es mehr Funktionen gibt, die eine viel bessere Leistung bieten. Also nutzten wir diese Stunde, um den Code erneut zu übertragen und begannen, ein erstes Hindernis zu integrieren.
 
 ## <p> <h2> <a id="25.1.2022"> 25.1.2022 </a> </h2>
 	    
@@ -129,7 +131,7 @@ In der Letzten Stunde haben wir die Platform gewechselt, jedoch wurde uns bewuss
 
 ## <p> <h2> <a id="1.2.2022"> 1.2.2022 </a> </h2>
 
-Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseoptimiert wie möglich zu machen. Denn unser Ziel für unser Spiel ist, dass es möglichst flüssig läuft und dass es auf möglichst vielen Computern läuft. Also haben wir in Foren uns über weitere Leistungsoptimierung zu informieren. Wir begonnen viele eigene Blöcke zu erschaffen, die das Spiel deutlich flüssiger machen. So haben wir in dieser Stunde die Überprüfung, ob der Spieler sich in der Luft oder auf dem Boden befindet als einen Block definiert. Zudem haben wir einen bewegenden Block hinzugefügt, für den wir auch wieder einen Block erschaffen haben, der die Animation der bewegung kontrolliert. Jedoch entstand das Problem, dass unser Spieler sich bei Berührung mit dem Block nach oben teleportierte. Wir versuchten die restliche zeit der Stunde deises Problem zu beheben doch leider gelang uns dies nicht. Diesen Block haben wir aber erstmal aus Level 1 wieder entfernt.
+Diese Stunde wurde genutzt, um grundlegende Spielmechaniken so leistungsoptimiert wie möglich zu gestalten. Denn unser Ziel für unser Spiel ist es, dass es so reibungslos wie möglich läuft und auf möglichst vielen Computern läuft. Also gingen wir in Foren, um uns über weitere Leistungsoptimierungen zu informieren. Wir haben angefangen, eine Menge eigener Blöcke zu erstellen, die das Spiel viel flüssiger laufen lassen. In dieser Lektion haben wir zum Beispiel die Überprüfung, ob sich der Spieler in der Luft oder auf dem Boden befindet, als Block definiert. Außerdem haben wir einen sich bewegenden Block hinzugefügt, für den wir wiederum einen Block erstellt haben, der die Animation der Bewegung steuert. Es trat jedoch das Problem auf, dass sich unser Spieler nach oben teleportierte, wenn er den Block berührte. Wir haben den Rest der Stunde versucht, dieses Problem zu beheben, aber leider ist es uns nicht gelungen. Wir haben diesen Block vorerst aus Level 1 entfernt.
     
 <details>
 	  <summary>Überprüfung der Boden-Berührung</summary>
@@ -148,11 +150,11 @@ Diese Stunde wurde dafür genutzt grundlegende Spielmechaniken so leistungseopti
 
 ## <p> <h2> <a id="2.2.2022"> 2.2.2022 </a> </h2>
 	    
-Die heutige Stunde haben wir primär für Github verwendet. Indem wir angefangen haben unsere Texte auf Word vor zu schreiben, sodass wir sie einfach nur in das Github Repository einfügen müssen.
+In der heutigen Unterrichtsstunde haben wir uns hauptsächlich mit Github beschäftigt. Wir haben damit begonnen, unsere Texte in Word vorzuschreiben, sodass wir sie nur noch in das Github-Repository einfügen müssen.
 	    
 ## <p> <h2> <a id="8.2.2022"> 8.2.2022 </a> </h2>
 
-Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel einzubauen. So haben wir als Hindernis Stacheln hinzugefügt und einen Leben-System. Das bei jedem Schaden immer ein halbes Herz verliert. Das heißt, dass bei Berührung mit den Stacheln, sich eine Variable erhöht, die je nach höhe den Skin der Herzen verändert, sodass es  so die Herzen bei berührung immer geringer werden. Sobald kein Herz mehr angezeigt wird, wird das Spiel neu gestartet. Dafür haben wir auf den Spieler einen "Fade" effekt hinzugefügt, der dafür sorgt, dass das Spiel flüssiger wirkt. Da die Figur nicht einfach wieder an den Anfang teleportiert wird sondern sich erst langsam auflöst.
+Wir haben diese Doppelstunde genutzt, um Schaden und Leben in unser Spiel zu integrieren. Wir haben also Stacheln als Hindernisse und ein Lebenssystem hinzugefügt. Bei jedem Schaden verliert man immer ein halbes Herz. Das heißt, wenn man die Stacheln berührt, steigt eine Variable, die den Skin der Herzen je nach Höhe verändert, so dass die Herzen immer geringer werden, wenn man sie berührt. Sobald keine Herzen mehr angezeigt werden, wird das Spiel neu gestartet. Dazu haben wir einen "Fade"-Effekt für den Spieler eingebaut, der das Spiel flüssiger erscheinen lässt. Die Figur wird nicht einfach an den Anfang zurückteleportiert, sondern löst sich langsam auf.
 	    
 <details>
 	<summary>Verlust von Herzen</summary>
@@ -164,7 +166,7 @@ Diese Doppelstunde haben wir dafür genutzt Schaden und Leben in unser Spiel ein
     
 ## <p> <h2> <a id="9.2.2022"> 9.2.2022 </a> </h2>
 	    
-In dieser Stunde haben wir unser erstes Vollständiges Level erschaffen. Dafür haben wir einen Hintergrund bei Piskel erstellt. Dazu haben wir noch ein Gegner erstellt. Die Bewegung für diesen Gegner haben wir aber noch nicht hinzugefügt. Dieses Level war also zu diesem zeitpunkt noch fast komplett ohne Funktionen.
+In dieser Unterrichtseinheit haben wir unseren ersten kompletten Level erstellt. Dazu haben wir einen Hintergrund bei Piskel erstellt. Wir haben auch einen Gegner erstellt. Allerdings haben wir die Bewegung für diesen Gegner noch nicht hinzugefügt. Zu diesem Zeitpunkt war dieser Level noch fast komplett ohne Funktionen.
 
 <details>
 	<summary>level 1</summary>
@@ -181,8 +183,7 @@ In dieser Stunde haben wir unser erstes Vollständiges Level erschaffen. Dafür 
 
 ## <p> <h2> <a id="15.2.2022"> 15.2.2022 </a> </h2>
 	    
-In dieser Doppelstunde war nur Enis anwesend. Er hat die Zeit einerseits genutzt, um an Github weiter zu arbeiten andererseits hat er die Bewegung des Gegners programmiert. Damit dieser sich flüssig hin und her bewegt hat er einen Block erschaffen, der die Bewegung des Gegners bestimmt. Außerdem hat er angefangen den Übergang der Level zu programmieren. Dies stellte sich als große Herrausforderung raus, da der Wechsel von Level zu Level zuerst nur sehr langsam lief. Also wurde sich nach der Stunde Zuhause informiert und wir haben uns eine grobe Lösung überlegt, die wir in den nächsten Stunden umsetzten wollen.
-
+Nur Enis war bei dieser Doppelstunde anwesend. Zum einen nutzte er die Zeit, um weiter an Github zu arbeiten, und zum anderen programmierte er die Bewegung des Gegners. Er hat einen Block erstellt, der die Bewegung des Gegners bestimmt, damit er sich flüssig hin und her bewegen kann. Er begann auch mit der Programmierung der Übergänge in den Levels. Dies erwies sich als große Herausforderung, da der Wechsel von Level zu Level zunächst sehr langsam war. Nach der Stunde recherchierten wir also zu Hause weiter und kamen zu einer groben Lösung, die wir in den nächsten Stunden umsetzen wollten.
 <details>
 	<summary>Bewegung Gegner 1</summary>
 	
@@ -193,7 +194,8 @@ In dieser Doppelstunde war nur Enis anwesend. Er hat die Zeit einerseits genutzt
 
 ## <p> <h2> <a id="16.2.2022"> 16.2.2022 </a> </h2>
 
-Wir nutzen diese Stunde dazu den Übergang von Level 1 zu Level 2 zu programieren. Dafür haben wir erstmal den Groben aufbau von Level 2 erstellt und als Testversion eingefügt. Nun haben wir die maximale Position bestimmt, auf der unser Spieler auf der X-Achse sein kann. Nun haben wir einen Befehl geschrieben, der dafür sorgt, dass sobald der Spieler einen bestimmten X-Achsen Wert überschreitet der Hintergrund und somit sich das Level ändert. Natürlich muss der Spieler immer etwas nach vorne gesetzt werden sobald das Level geändert wird, da ansonsten der Spieler direkt wieder in das vorherige Level gebracht wird. 
+Wir nutzen diese Unterrichtseinheit, um den Übergang von Stufe 1 zu Stufe 2 zu programmieren. Dazu haben wir zunächst die grobe Struktur von Level 2 erstellt und als Testversion eingefügt. Nun haben wir die maximale Position bestimmt, die unser Spieler auf der X-Achse einnehmen kann. Nun haben wir einen Befehl geschrieben, der dafür sorgt, dass sich der Hintergrund und damit das Level ändert, sobald der Spieler einen bestimmten Wert auf der X-Achse überschreitet. Natürlich muss der Spieler immer ein Stück nach vorne bewegt werden, sobald sich die Ebene ändert, sonst wird der Spieler direkt wieder in die vorherige Ebene gebracht.
+ 
 
 <details>
 	<summary>Level Wechsel</summary>
@@ -204,7 +206,7 @@ Wir nutzen diese Stunde dazu den Übergang von Level 1 zu Level 2 zu programiere
 	    
 ## <p> <h2> <a id="22.2.2022"> 22.2.2022 </a> </h2>
 	    
-Diese Doppelstunde haben wir dafür verwendet Level 2 zu erstellen. Level 2 hat grundlegend 2 neue features. Einerseits einen bewegenden Block, den wir bereits am Anfang des Projektes programmiert hatten. Andererseits einen Sprungboost. Der bei Berührung dafür sorgt, dass unser spieler sehr hoch springt. Außerdem haben wir wieder Stacheln hinzugefügt. Der Sprungboost funktoniert sehr simpel, da bei Berührung der Spieler einfach in Y-Richtung beschleunigt wird. Außerdem haben wir ein Loch in diesem level hinzugefügt, über welches der Spieler springen muss ansonsten verliert er direkt.
+Wir haben diese Doppelstunde genutzt, um Level 2 zu erstellen. Level 2 hat im Wesentlichen 2 neue Funktionen. Zum einen einen beweglichen Block, den wir bereits zu Beginn des Projekts programmiert hatten. Zum anderen einen Sprung-Boost. Dieser sorgt dafür, dass unser Spieler bei Berührung extrem hoch springt. Wir haben auch wieder Stacheln hinzugefügt. Der Sprung-Boost funktioniert sehr einfach, denn bei Berührung wird der Spieler einfach in Y-Richtung beschleunigt. Wir haben in diesem Level auch ein Loch eingebaut, über das der Spieler springen muss, sonst verliert er direkt.
 	    
 <details>
 	<summary>Stachel code</summary>
@@ -223,7 +225,7 @@ Diese Doppelstunde haben wir dafür verwendet Level 2 zu erstellen. Level 2 hat 
 	    
 ## <p> <h2> <a id="23.2.2022"> 23.2.2022 </a> </h2>
 	    
-Diese Stunde haben wir dafür verwendet uns einen Plan für unser nächstes Level zu erstellen. Dabei sind wir auf die Idee gekommen eine kleine Abwechslung zu integrieren und eine Shooter-mechanik hinzuzufügen. Wir haben also wieder mal bei Piskel eine Waffe erstellt und uns den Aufbau des Levels überlegt.
+Wir haben diese Stunde genutzt, um einen Plan für unser nächstes Level zu erstellen. Wir kamen auf die Idee, ein wenig Abwechslung einzubauen und eine Shooter-Mechanik hinzuzufügen. Also erstellten wir wieder eine Waffe bei Piskel und überlegten uns die Struktur des Levels.
 	    
 <details>
 	<summary>Waffe</summary>
@@ -234,7 +236,7 @@ Diese Stunde haben wir dafür verwendet uns einen Plan für unser nächstes Leve
 
 ## <p> <h2> <a id="1.3.2022"> 1.3.2022 </a> </h2>
 	    
-Nun haben wir uns an das 3 Level gesetzt. zuerst haben wir dafür wieder unsere alten Mechaniken hinzugefügt und grundlegend das Design erstellt. Dann haben wir einen "Spawner" erschaffen, also einen Block, aus dem Gegner in bestimmten Abständen erscheinen. Es entstehen jede Sekunde zwei Gegner, die sich nach links bewegen. Damit die Performance besser ist haben wir die clone-Funktion benutzt, da wir so deutlich weniger Sprites brauchen, da so einfach in bestimmten Abständen unsere Gegner geklont werden. Dazu haben wir die Projektile der Waffe programmiert. Diese fliegen immer in Richtung des Mauszeigers. 
+Nun machten wir uns an die Arbeit für den 3 Level. Zuerst haben wir unsere alte Mechanik wieder eingebaut und das Grunddesign erstellt. Dann haben wir einen "Spawner" erstellt, d.h. einen Block, aus dem in bestimmten Abständen Feinde auftauchen. Jede Sekunde tauchen zwei Feinde auf und bewegen sich nach links. Um die Performance zu verbessern, haben wir die Klon-Funktion verwendet, da wir so wesentlich weniger Sprites benötigen, da unsere Feinde einfach in bestimmten Abständen geklont werden. Dazu haben wir die Projektile der Waffe programmiert. Sie fliegen immer in die Richtung des Mauszeigers. 
 	    
 <details>
 	<summary>Level 3</summary>
@@ -258,7 +260,7 @@ Nun haben wir uns an das 3 Level gesetzt. zuerst haben wir dafür wieder unsere 
 
 ## <p> <h2> <a id="2.3.2022"> 2.3.2022 </a> </h2>
 	    
-In dieser Stunde haben wir weiter an Level 3 gearbeitet. Wir haben der Waffe eine Abklinkzeit gegeben, damit der Spieler das Level nicht zu schnell beendet. Außerdem haben wir einen Block erstellt, der das Aufheben der Waffe regelt. Dies sorgt dafür, dass das Aufheben sehr flüssig und konstant läuft. Zudem haben wir weiter an Github gearbeitet und unsere Projektseite weiter ausgeführt. Außerdem haben wir einen Lebensbalken für den Spawner programmiert. Dieser Sorgt dafür, dass die Treffer des Spawners für den Spieler ersichtlich sind und man erkennt daran wie oft man diesen noch treffen muss. Sobald die Leben des Spawners auf null gesunken sind verschwinden auch die Gegner und der Spawner. Das waren die Ergebnisse dieser Stunde.
+In dieser Stunde haben wir weiter an Level 3 gearbeitet. Wir haben die Waffe mit einer Abklinkzeit versehen. Außerdem haben wir einen Block erstellt, der das Aufheben der Waffe regelt. Das sorgt dafür, dass das Aufheben der Waffe sehr flüssig und konstant abläuft. Außerdem haben wir weiter auf Github gearbeitet und unsere Projektseite weiter ausgeführt. Wir haben auch einen Lebensbalken für den Spawner programmiert. Dieser sorgt dafür, dass die Treffer der Spawner für den Spieler sichtbar sind und man sehen kann, wie oft man sie noch treffen muss. Sobald die Lebenspunkte der Spawners auf Null gesunken sind, verschwinden die Gegner und der Spawner. Dies waren die Ergebnisse dieser Unterrichtseinheit.
 	    
 <details>
 	<summary>Waffe aufsammeln</summary>
@@ -287,7 +289,7 @@ In dieser Stunde haben wir weiter an Level 3 gearbeitet. Wir haben der Waffe ein
 
 ## <p> <h2> <a id="9.3.2022"> 9.3.2022 </a> </h2>
 	    
-Nun haben wir uns langsam dem Endprozess unseres Spiels gewidmet dafür haben wir uns überlegt wie unser Finales Level aussehen soll und welche Features wir einfügen wollen. Nachdem wir dies besprochen haben, begonnen wir damit den Hintergrund und den Aufbau des Levels zu erstellen. Wir wollten das Spiel beenden, indem man eine Tür öffnet. Dafür müsste man zuerst einen Schlüssel aus einem anderen Level holen. Für die Tür haben wir ma wieder ein Design bei Piskel erstellt. Des weiteren haben wir begonnen die zweite Hälfte des finalen Levels zu programmieren.
+Jetzt haben wir uns langsam dem Endprozess unseres Spiels gewidmet. Dazu haben wir uns überlegt, wie unser endgültiger Level aussehen soll und welche Features wir einbauen wollen. Nachdem wir dies besprochen hatten, begannen wir, den Hintergrund und die Struktur des Levels zu erstellen. Wir wollten das Spiel beenden, indem wir eine Tür öffnen. Dazu müsste man zuerst einen Schlüssel aus einem anderen Level holen. Für die Tür haben wir bei Piskel ein weiteres Design entworfen. Wir begannen auch mit der Programmierung der zweiten Hälfte des letzten Levels.
 
 <details>
 	<summary>Finales Level 1/2</summary>
@@ -298,8 +300,7 @@ Nun haben wir uns langsam dem Endprozess unseres Spiels gewidmet dafür haben wi
 	    
 ## <p> <h2> <a id="15.3.2022"> 15.3.2022 </a> </h2>
 	    
-Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben wir die zweite Hälfte des letzten Levels zu gestalten. Wir haben uns dafür entschieden in diese Hälfte zwei Laserstrahlen einzubauen, die als Hindernis fungieren. Diese Erscheinen in regelmäßigen Abständen und fügen dem Spieler genau wie die Gegner Schaden zu. Außerdem haben wir noch eine Grube mit Lava hinzugefügt, die auch als weiteres Hindernis dient. Diese richtet aber nicht nur schaden an, sondern sorgt sie dafür, dass der Spieler bei Berührung alle seine Herzen verliert. Nun begann eine komplizierte Phase des Projektes, da wir den Übergang zwischen den zwei Ebenen im letzten Level so flüssig wie möglich machen wollten. Dieser Übergang verläuft aber nun nichtmehr horizontal sondern vertikal. Diesem Problem stellten wir uns am ende der Stunde kamen jedoch nicht allzu weit und so verschoben wir die arbeit auf die nächste Stunde. 
-
+Diese Doppellektion wurde für das letzte Level weiter verwendet. Hier müssen wir die zweite Hälfte des letzten Levels gestalten. Wir haben uns entschieden, in dieser Hälfte zwei Laserstrahlen einzubauen, die als Hindernisse fungieren. Sie tauchen in regelmäßigen Abständen auf und fügen dem Spieler genau wie die Feinde Schaden zu. Außerdem haben wir eine Grube mit Lava hinzugefügt, die ebenfalls als Hindernis dient. Sie verursacht nicht nur Schaden, sondern führt auch dazu, dass der Spieler alle seine Herzen verliert, wenn er sie berührt. Nun begann eine komplizierte Phase des Projekts, da wir den Übergang zwischen den beiden Ebenen im letzten Level so fließend wie möglich gestalten wollten. Dieser Übergang ist jedoch nicht mehr horizontal, sondern vertikal. Wir haben uns diesem Problem am Ende der Stune gestellt, sind aber nicht sehr weit gekommen und haben die Arbeit auf die nächste Stunde verschoben. 
 <details>
 	<summary>Finales Level 2/2</summary>
 	
@@ -323,7 +324,8 @@ Diese Doppelstunde wurde weiter für das letzte Level verwendet. Hierbei haben w
 	    
 ## <p> <h2> <a id="16.3.2022"> 16.3.2022 </a> </h2>	    
 	    
-Nun haben wir den Übergang zwischen den beiden Ebenen erstellt. Dafür haben wir wieder die oberste Y-Koordinate ermittelt. Dann haben wir wieder den unsere altes System angewandt nur auf der Y-Achse. Jedoch war es ziemlich schwierig die Bewegung aus dem vorherigen Level zu übernehmen, sodass es Flüssig aussieht. 
+Nun haben wir den Übergang zwischen den beiden Ebenen geschaffen. Dazu haben wir wieder die obere Y-Koordinate bestimmt. Dann haben wir wieder unser altes System angewendet, nur auf der Y-Achse. Es war allerdings recht schwierig, die Bewegung aus der vorherigen Ebene so zu übernehmen, dass sie flüssig aussieht.
+ 
 	    
 
 <details>
@@ -335,7 +337,7 @@ Nun haben wir den Übergang zwischen den beiden Ebenen erstellt. Dafür haben wi
 	    
 ## <p> <h2> <a id="22.3.2022"> 22.3.2022 </a> </h2>
 
-Die Doppelstunde wurde dazu genutzt unser Spiel fast fertig zu stellen. Dafür haben wir der Lava noch eine Bewegungsanimation hinzugefügt. So wirkt das Spiel weniger statisch. Die restliche Stunde haben wir an Github gearbeitet und noch kleine Fehler behoben. Außerdem haben wir den Schlüssel dazu programmiert, der zum öffnen der Tür dient. Dafür haben wir einen Block erschaffen der überprüft, ob der Spieler einmal den Schlüssel berührt hat. Sobald dies passiert ist wird eine Variable erhöht und die Tür lässt sich öffnen und das Spiel lässt sich beenden. 
+Die Doppelstunde wurde genutzt, um unser Spiel fast fertigzustellen. Wir haben eine Bewegungsanimation für die Lava hinzugefügt. Das lässt das Spiel weniger statisch aussehen. Den Rest der Stunde haben wir auf Github gearbeitet und einige kleine Fehler behoben. Wir haben auch den Schlüssel programmiert, mit dem man die Tür öffnen kann. Wir haben einen Block erstellt, der überprüft, ob der Spieler den Schlüssel einmal berührt hat. Sobald dies geschieht, wird eine Variable erhöht und die Tür kann geöffnet und das Spiel beendet werden. 
 
 
 <details>
@@ -347,7 +349,7 @@ Die Doppelstunde wurde dazu genutzt unser Spiel fast fertig zu stellen. Dafür h
 
 ## <p> <h2> <a id="23.3.2022"> 23.3.2022 </a> </h2>
 
-Diese Stunde haben wir dafür genutzt Kommentare in unseren Code hinzuzufügen. Dies macht den gesamten Code deutlich verständlicher und übersichtlicher. Außerdem spart dies uns Arbeit, da wir nun einfach nur einen Screenshot einfügen müssen und dieser sich selbst erklärt.
+Wir haben diese Stunde genutzt, um Kommentare zu unserem Code hinzuzufügen. Dadurch wird der gesamte Code viel verständlicher und klarer. Es erspart uns auch Arbeit, denn jetzt müssen wir nur noch einen Screenshot einfügen und es erklärt sich von selbst. (Die meisten Screenshots habe ich im Nachhinein eingefügt, damit diese kommentare vorhanden sind.)
 
 ## <p> <h2> <a id="29.3.2022"> 29.3.2022 </a> </h2>
 In dieser Stunde waren wir beide nicht anwesend. 
@@ -359,8 +361,8 @@ In dieser Stunde waren wir beide nicht anwesend.
 
 ## <p> <h2> <a id="Arbeitsprogress in den Ferien"> Arbeitsprogress in den Ferien </a> </h2>      
       
-In den Ferien wurden noch einige kleine Verbesserungen vorgenommen. Z.b. haben wir einen Erklärtext in Level 3 und 4 hinzugefügt. Dies hilft für die Dynamik des Spiels. Außerdem haben wir die Dynamik unseres Spiels noch weiter erhöt, da wir die Bewegungen des Spielers selbst erschaffene Blöcke simpler und so unkomplizierte zum ausführen gemacht haben. Allgemein kann man festhalten, dass es uns gelungen ist, dass unser Spiel auf unseren PC´s sehr gut und flüssig läuft. wie dies jedoch auf den Schulrechnern aussieht wissen wir leider nicht. Eine weitere Neuerung war das hinzufügen eines Endscreens und einem Spielneustart-Knopfes. 
-Die restliche zeit der Ferien haben wir für Github verwendet und haben unser Projekt fertiggestellt.
+Während der Ferien wurden einige kleine Verbesserungen vorgenommen. Zum Beispiel haben wir in den Stufen 3 und 4 einen erklärenden Text hinzugefügt. Das hilft der Dynamik des Spiels. Außerdem haben wir die Dynamik unseres Spiels noch weiter erhöht, indem wir die Bewegungen der selbst erstellten Blöcke des Spielers einfacher und damit leichter ausführbar gemacht haben. Im Allgemeinen können wir sagen, dass es uns gelungen ist, unser Spiel auf unseren PCs sehr gut und reibungslos laufen zu lassen, aber leider wissen wir nicht, wie es auf den Schulcomputern aussieht. Eine weitere Neuerung war das Hinzufügen eines Endbildschirms und einer Schaltfläche zum Neustart des Spiels. 
+Wir haben den Rest der Ferien auf Github verbracht und unser Projekt fertiggestellt.
 
 
 <details>
